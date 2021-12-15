@@ -1,0 +1,7 @@
+Paleta de colores:
+
+#630704		#e8544f		#e31009		#632422		#b30d07
+
+Fuentes:
+
+Shrikhand	Contrail One (italik)
